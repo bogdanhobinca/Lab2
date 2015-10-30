@@ -8,8 +8,8 @@
         die('Connectfailed['.$db->connect_error.']');
     }
 
-    $sql_query="Select * from marvelMovies";
-    $result=$db->multi_query($sql_query);
+    $sql_query="Select * from marvelmovies";
+    $result=$db->query($sql_query);
 
     while ($row=$result->fetch_array()){
         echo "<p>".$row['title']."</p>";
