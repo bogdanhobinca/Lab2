@@ -25,5 +25,5 @@
         $rez=$rez."Spitting Fire false";
     }
 
-
+    echo $rez;
 ?>
