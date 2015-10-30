@@ -4,10 +4,10 @@
 <body>
 <p>Where would you like to say hello?</p>
 <br />
-<a href="http://www.mysite.com/helloPrinter.php?planet=earth">Earth</a>
+<a href="http://lab2test.azurewebsites.net/helloPrinter.php?planet=earth">Earth</a>
 <br />
-<a href="http://www.mysite.com/helloPrinter.php?planet=Mars">Earth</a>
+<a href="http://lab2test.azurewebsites.net/helloPrinter.php?planet=Mars">Earth</a>
 <br />
-<a href="http://www.mysite.com/helloPrinter.php?planet=Uranus">Mars</a>
+<a href="http://lab2test.azurewebsites.net/helloPrinter.php?planet=Uranus">Mars</a>
 </body>
 </html>
