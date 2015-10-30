@@ -15,7 +15,7 @@
     switch($val){
         case "before2010": $sql_query=$sql_query." where yearReleased < 2010"; break;
         case "marvel": $sql_query=$sql_query." where productionStudio='Marvel Studios'"; break;
-        case "after2010": $sql_query=$sql_query." where yearReleased < 2010"; break;
+        case "after2010": $sql_query=$sql_query." where yearReleased > 2010"; break;
         case "oscar": $sql_query=$sql_query." where notes like '%oscar%'"; break;
         default: break;
     }
