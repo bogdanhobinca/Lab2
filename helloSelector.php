@@ -4,7 +4,7 @@
 <body>
 <p>Where would you like to say hello?</p>
 <br /><br />
-<a href="http://lab2test.azurewebsites.net/helloPrinter.php?planet=earth">Earth</a>
+<a href="http://lab2test.azurewebsites.net/helloPrinter.php?planet=Earth">Earth</a>
 <br /><br />
 <a href="http://lab2test.azurewebsites.net/helloPrinter.php?planet=Mars">Mars</a>
 <br /><br />

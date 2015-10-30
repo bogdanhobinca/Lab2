@@ -4,7 +4,7 @@
 <body>
 <?php
     $query=$_GET["planet"];
-    echo "Hello".$query;
+    echo "Hello ".$query;
 ?>
 </body>
 </html>
