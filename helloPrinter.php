@@ -3,7 +3,7 @@
 <head></head>
 <body>
 <?php
-    $query=$_GET["plane"];
+    $query=$_GET["planet"];
     echo "Hello".$query;
 ?>
 </body>
